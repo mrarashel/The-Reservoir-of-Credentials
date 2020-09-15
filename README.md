@@ -1,5 +1,5 @@
 # The-Reservoir-of-Credentials
-A Credentials/Passwords Management 
+A Credentials/Passwords Management System
 
                                                        
 
